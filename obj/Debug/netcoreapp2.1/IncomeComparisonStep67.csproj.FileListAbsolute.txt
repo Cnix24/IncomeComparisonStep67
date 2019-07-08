@@ -1,0 +1,10 @@
+C:\Users\cback\source\repos\RandomProjects\IncomeComparisonStep67\IncomeComparisonStep67\bin\Debug\netcoreapp2.1\IncomeComparisonStep67.deps.json
+C:\Users\cback\source\repos\RandomProjects\IncomeComparisonStep67\IncomeComparisonStep67\bin\Debug\netcoreapp2.1\IncomeComparisonStep67.runtimeconfig.json
+C:\Users\cback\source\repos\RandomProjects\IncomeComparisonStep67\IncomeComparisonStep67\bin\Debug\netcoreapp2.1\IncomeComparisonStep67.runtimeconfig.dev.json
+C:\Users\cback\source\repos\RandomProjects\IncomeComparisonStep67\IncomeComparisonStep67\bin\Debug\netcoreapp2.1\IncomeComparisonStep67.dll
+C:\Users\cback\source\repos\RandomProjects\IncomeComparisonStep67\IncomeComparisonStep67\bin\Debug\netcoreapp2.1\IncomeComparisonStep67.pdb
+C:\Users\cback\source\repos\RandomProjects\IncomeComparisonStep67\IncomeComparisonStep67\obj\Debug\netcoreapp2.1\IncomeComparisonStep67.csproj.CoreCompileInputs.cache
+C:\Users\cback\source\repos\RandomProjects\IncomeComparisonStep67\IncomeComparisonStep67\obj\Debug\netcoreapp2.1\IncomeComparisonStep67.AssemblyInfoInputs.cache
+C:\Users\cback\source\repos\RandomProjects\IncomeComparisonStep67\IncomeComparisonStep67\obj\Debug\netcoreapp2.1\IncomeComparisonStep67.AssemblyInfo.cs
+C:\Users\cback\source\repos\RandomProjects\IncomeComparisonStep67\IncomeComparisonStep67\obj\Debug\netcoreapp2.1\IncomeComparisonStep67.dll
+C:\Users\cback\source\repos\RandomProjects\IncomeComparisonStep67\IncomeComparisonStep67\obj\Debug\netcoreapp2.1\IncomeComparisonStep67.pdb
